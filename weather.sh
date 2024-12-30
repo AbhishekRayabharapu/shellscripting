@@ -9,7 +9,7 @@
 # it uses weather_api to process and show the data
 
 
-API_KEY="4966be667d6a4a0994290644242812"
+API_KEY="add your api key here "
 City=$1
 
 # check whether a city name is provided 
